@@ -148,7 +148,7 @@ Unique crypto addresses per invoice
 Support Channels
 Complete documentation: docs.whmapi.pro
 
-Email: owlinweb1@wgmail.com
+Email: owlinweb1@gmail.com
 
 Telegram: @owlinweb1
 
