@@ -189,6 +189,8 @@ One-Time License Fee
 $545 USD - Permanent Access
 
 #What's Included
+
+
 ✅ Lifetime license for one production server
 
 ✅ All Enterprise features included
