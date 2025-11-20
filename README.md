@@ -212,7 +212,7 @@ Step 1: Purchase License
 Send $545 USD in cryptocurrency to:
 
 text
-BTC: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+BTC: 0xe19ea5463ed2d8e33f04abfb794923568bbd63f6
 
 Step 2: Email Confirmation
 After payment, email your transaction details to:
