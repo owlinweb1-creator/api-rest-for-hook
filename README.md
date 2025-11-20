@@ -363,3 +363,31 @@ bash
 
 # Check for updates
 ./update_check.sh --license YOUR_KEY
+
+
+#Frequently Asked Questions
+Q: Can I transfer the license to another server?
+A: Yes, one transfer allowed every 6 months via deactivation/reactivation.
+
+Q: What happens after 2 years of updates?
+A: You keep using the current version forever. Optional update subscription available.
+
+Q: Is the source code modifiable?
+A: Yes, full source code provided. Modifications don't void license.
+
+Q: Can I use this for client projects?
+A: Yes, included in the license. White-label option available.
+
+**Bulk Licensing**
+Multiple Server Discounts
+3-5 licenses: 15% discount ($463 each)
+
+6-10 licenses: 25% discount ($408 each)
+
+11+ licenses: 40% discount ($327 each)
+
+
+Ready to own your API solution forever?
+Send $545 in crypto to any address above and email your transaction to owlinweb1@gmail.com
+
+**One payment. Lifetime access. Complete control.**
