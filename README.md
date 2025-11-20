@@ -8,7 +8,7 @@ Current Version
 v2.1.0 - "Quantum Integration"
 
 # Update History
-text
+
 v2.1.0 (Oct 2024) - Enhanced support for custom hooks
 v2.0.3 (Sep 2024) - Performance optimization for critical endpoints
 v2.0.1 (Aug 2024) - Advanced Webhooks integration
@@ -84,7 +84,7 @@ Webhooks: Real-time event support
 Rate Limiting: Configurable per plan
 
 # Main Endpoints
-text
+
 POST /api/v1/accounts/create
 GET /api/v1/accounts/list
 PUT /api/v1/accounts/suspend
@@ -211,7 +211,7 @@ $545 USD - Permanent Access
 Step 1: Purchase License
 Send $545 USD in cryptocurrency to:
 
-text
+
 BTC: 0xe19ea5463ed2d8e33f04abfb794923568bbd63f6
 
 Step 2: Email Confirmation
