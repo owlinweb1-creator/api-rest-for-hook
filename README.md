@@ -269,15 +269,25 @@ python3 activate_license.py --key YOUR_LICENSE_KEY_HERE
 Expected Output
 
 ✅ License validation successful!
+
 ✅ Activation code verified!
+
 ✅ Downloading enterprise package...
+
 ✅ Installing dependencies...
+
 ✅ Configuring API endpoints...
+
 ✅ Setting up security tokens...
+
 🎉 WHM/cPanel API Pro Enterprise activated!
+
 📧 Support PIN: XXXX-XXXX-XXXX
+
 ⏰ License expires: Never
-License Verification
+
+
+# License Verification
 Check License Status
 
 bash
