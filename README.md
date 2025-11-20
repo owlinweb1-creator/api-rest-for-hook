@@ -216,9 +216,8 @@ BTC: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 
 Step 2: Email Confirmation
 After payment, email your transaction details to:
-
-text
 owlinweb01@gmail.com
+
 Include:
 
 Cryptocurrency used
