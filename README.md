@@ -283,13 +283,19 @@ Check License Status
 bash
 ./license_check.sh --status
 Expected Output
-text
+
 🟢 LICENSE STATUS: ACTIVE
+
 📛 Type: Enterprise Permanent
+
 💰 Paid: $545 USD
+
 📅 Activated: 2024-10-15
+
 🔄 Updates: Until 2026-10-15
+
 🎫 Support: Until 2025-10-15
+
 What You Get
 Immediate Delivery
 Instant download access after activation
