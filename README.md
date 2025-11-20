@@ -267,7 +267,7 @@ cd pro-enterprise
 # Activate license
 python3 activate_license.py --key YOUR_LICENSE_KEY_HERE
 Expected Output
-text
+
 ✅ License validation successful!
 ✅ Activation code verified!
 ✅ Downloading enterprise package...
@@ -279,6 +279,7 @@ text
 ⏰ License expires: Never
 License Verification
 Check License Status
+
 bash
 ./license_check.sh --status
 Expected Output
